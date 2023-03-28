@@ -1,0 +1,17 @@
+.timer {
+  margin: 0 auto;
+  display: flex;
+  justify-content: space-between;
+  max-width: 800px;
+}
+
+.field {
+  font-size: 40px;
+  color: red;
+}
+.message {
+  margin-top: 10px;
+  text-align: center;
+  font-size: 60px;
+  color: black;
+}
