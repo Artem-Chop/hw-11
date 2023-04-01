@@ -7,11 +7,11 @@
 
 .field {
   font-size: 40px;
-  color: red;
+  color: black;
 }
 .message {
   margin-top: 10px;
   text-align: center;
   font-size: 60px;
-  color: black;
+  color: red;
 }

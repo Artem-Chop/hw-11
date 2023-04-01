@@ -6,7 +6,7 @@ const colors = [
   '#009688',
   '#795548',
 ];
-
+0;
 const startBtn = document.querySelector('button[data-action="start"]');
 const stopBtn = document.querySelector('button[data-action="stop"]');
 const body = document.querySelector('body');
